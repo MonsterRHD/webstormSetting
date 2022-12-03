@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS复制" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="meta page_down" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="meta page_up" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+</keymap>
